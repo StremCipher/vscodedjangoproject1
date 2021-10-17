@@ -1,0 +1,3 @@
+# admin page login details:
+# username: amitkumar
+# pass: Amit@123
